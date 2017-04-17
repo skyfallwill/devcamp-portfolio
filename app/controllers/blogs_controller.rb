@@ -68,3 +68,4 @@ class BlogsController < ApplicationController
       params.require(:blog).permit(:title, :body)
     end
 end
+git remote set-url
