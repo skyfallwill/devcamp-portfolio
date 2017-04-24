@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45f60efa-5a3d-4f18-9eb9-2aebde1ac360" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/blogs/_blog.html.erb" afterPath="$PROJECT_DIR$/app/views/blogs/_blog.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/blogs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/blogs/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/contact.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/contact.html.erb" />
-    </list>
+    <list default="true" id="45f60efa-5a3d-4f18-9eb9-2aebde1ac360" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1044,12 +1040,12 @@
       <workItem from="1492528027043" duration="29073000" />
       <workItem from="1492716240582" duration="7526000" />
       <workItem from="1492789632585" duration="5616000" />
-      <workItem from="1493046851662" duration="11972000" />
+      <workItem from="1493046851662" duration="12044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63064000" />
+    <option name="totallyTimeSpent" value="63136000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
